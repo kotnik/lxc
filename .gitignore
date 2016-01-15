@@ -146,7 +146,6 @@ src/config.h.in
 src/stamp-h1
 
 .pc
-patches
 *.orig
 *.rej
 tags
