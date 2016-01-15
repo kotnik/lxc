@@ -1,8 +1,8 @@
-lxc (1.1.5-0ubuntu4~ubuntu14.04.1~ppa1) trusty; urgency=medium
+lxc (1.1.5-1) unstable; urgency=medium
 
-  * No-change backport to trusty
+  * Wheezy release
 
- -- Stéphane Graber <stgraber@stgraber.net>  Thu, 14 Jan 2016 00:30:38 +0000
+ -- Nikola Kotur <nikola@platform.sh>  Thu, 15 Jan 2016 14:21:11 +0000
 
 lxc (1.1.5-0ubuntu4) xenial; urgency=medium
 
