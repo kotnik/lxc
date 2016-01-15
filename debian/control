@@ -1,7 +1,7 @@
 Source: lxc
 Section: admin
 Priority: optional
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Maintainer: Nikola Kotur <nikola@platform.sh>
 Build-Depends: autotools-dev,
                debhelper (>= 9),
                dh-apparmor,
@@ -21,8 +21,6 @@ Build-Depends: autotools-dev,
                python3-all-dev (>= 3.2.3)
 Standards-Version: 3.9.6
 Homepage: https://linuxcontainers.org
-Vcs-Git: git://github.com/lxc/lxc-pkg-ubuntu
-Vcs-Browser: https://github.com/lxc/lxc-pkg-ubuntu
 X-Python3-Version: >= 3.2
 XS-Testsuite: autopkgtest
 
